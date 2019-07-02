@@ -1,0 +1,2 @@
+# repoSettingsResolve
+test for GitHubSettingsVsGitHubResolveApiTest
